@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soyoyo</title>
+    <link>http://soyoyo.co/</link>
+    <description>Recent content on Soyoyo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 06 Jun 2019 04:28:21 +0600</lastBuildDate>
+    
+	<atom:link href="http://soyoyo.co/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>欢迎来到苏园园的世界</title>
+      <link>http://soyoyo.co/welcome-to-soyoyo/</link>
+      <pubDate>Thu, 06 Jun 2019 04:28:21 +0600</pubDate>
+      
+      <guid>http://soyoyo.co/welcome-to-soyoyo/</guid>
+      <description>苏园园·汤圆 源自贵州，主打毕节手擀汤圆（贵州八大著名小吃）、 脆哨拌面（贵州八大著名小吃）、甜酒饵丝、甜酒酿 等特色小吃。大部分原料从贵州采购，旨在把大山深 处的特色原味带给更多人品尝。
+客单价：人均15元</description>
+    </item>
+    
+    <item>
+      <title>Red Pepper Miso Wings 2</title>
+      <link>http://soyoyo.co/red-pepper-miso-wings-2/</link>
+      <pubDate>Wed, 26 Dec 2018 12:30:01 +0600</pubDate>
+      
+      <guid>http://soyoyo.co/red-pepper-miso-wings-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+    <item>
+      <title>Red Pepper Miso Wings</title>
+      <link>http://soyoyo.co/red-pepper-miso-wings/</link>
+      <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
+      
+      <guid>http://soyoyo.co/red-pepper-miso-wings/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+    <item>
+      <title>Homestyle Chicken Pot Pie</title>
+      <link>http://soyoyo.co/homestyle-chicken-pot-pie/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
+      
+      <guid>http://soyoyo.co/homestyle-chicken-pot-pie/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+    <item>
+      <title>Skillet Chicken with Potatoes</title>
+      <link>http://soyoyo.co/restaurant/</link>
+      <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
+      
+      <guid>http://soyoyo.co/restaurant/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+    <item>
+      <title>Red Pepper Miso Wings</title>
+      <link>http://soyoyo.co/my-first-post/</link>
+      <pubDate>Wed, 12 Dec 2018 04:28:21 +0600</pubDate>
+      
+      <guid>http://soyoyo.co/my-first-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+  </channel>
+</rss>

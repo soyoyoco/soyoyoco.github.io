@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bio on 白板报</title>
+    <link>https://baibanbao.org/tags/bio/</link>
+    <description>Recent content in Bio on 白板报</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>本作品采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。- Wangpei</copyright>
+    <lastBuildDate>Mon, 20 May 2019 20:07:06 +0800</lastBuildDate>
+    
+	<atom:link href="https://baibanbao.org/tags/bio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://baibanbao.org/post/my-first-post/</link>
+      <pubDate>Mon, 20 May 2019 20:07:06 +0800</pubDate>
+      
+      <guid>https://baibanbao.org/post/my-first-post/</guid>
+      <description>Wang Pei is a Hangzhou/Beijing based playwright and freelancer, born and raised in Shandong, educated in Shandong, Amoy and Nottingham. He has started to write on the internet since 1998 and enjoyed popularity as a humorous writer with a nickname “Red Heart Killer”.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>笔记 on 白板报</title>
+    <link>https://baibanbao.org/tags/%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in 笔记 on 白板报</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>本作品采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。- Wangpei</copyright>
+    <lastBuildDate>Fri, 24 May 2019 20:39:49 +0800</lastBuildDate>
+    
+	<atom:link href="https://baibanbao.org/tags/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>聪明笔记--卡片盒</title>
+      <link>https://baibanbao.org/post/how-to-take-smart-notes/</link>
+      <pubDate>Fri, 24 May 2019 20:39:49 +0800</pubDate>
+      
+      <guid>https://baibanbao.org/post/how-to-take-smart-notes/</guid>
+      <description>世界读书节，从一个朋友那里看到How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers: Sönke Ahrens: 9781542866507: Amazon.com: Gateway，怀着饥渴慕知的心情读完，然后开始操练起来。
+聪明笔记的来历 书中介绍的smart notes这套方法，不但在中文世界，即使在英文世界，也没有多少人知道。</description>
+    </item>
+    
+    <item>
+      <title>为什么写作？</title>
+      <link>https://baibanbao.org/post/why-we-write/</link>
+      <pubDate>Fri, 24 May 2019 19:36:02 +0800</pubDate>
+      
+      <guid>https://baibanbao.org/post/why-we-write/</guid>
+      <description>还是乔治·奥威尔说得好：
+ I write it because there is some lie that I want to expose, some fact to which I want to draw attention, and my initial concern is to get a hearing.</description>
+    </item>
+    
+    <item>
+      <title>21天学编程小结</title>
+      <link>https://baibanbao.org/post/21-days-of-coding/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://baibanbao.org/post/21-days-of-coding/</guid>
+      <description>2019年4月30日，我注意到在英文、日文推特界，有人发起了#100DaysOfCode 活动，但中文推特界似乎不见动静。就决定身先士卒，在推特上每天发布学编程的消息。
+5月1日第1天  Git的历史 A Short History of Git 看了油管视频Jekyll and Sublime Text 写了给文科生看的Github和Markdown极简教程； 安装gollum wiki系统报错； 安装sublime text jekyll 折腾成功；还不算正式学code。  5月2日第2天  学习了编剧语言fountain,安装研究了sublime text 的编剧插件 fountainhead。 学习设置了googlegroups邮件列表。 注册了一个域名Movie.</description>
+    </item>
+    
+  </channel>
+</rss>
